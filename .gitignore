@@ -1,4 +1,9 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-.bundle
+target
+*.iml
+out/
+.idea
+.classpath
+.project
+.settings/
+bin/
+.myeclipse
